@@ -1,0 +1,35 @@
+.bag {
+    background-color: rgb(255, 229, 234);
+    height: 200px;
+    padding-top: 10px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.btn {
+    background-color: red;
+    background-image: none;
+    border: none;
+    color: aliceblue;
+}
+
+.head {
+    color: rgb(229, 107, 107);
+
+}
+
+.par {
+    padding-bottom: 20px;
+}
+
+.div {
+    text-align: left;
+    width: 400px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
